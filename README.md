@@ -12,6 +12,7 @@
 
 ## > profile.init()
 
+```yaml
 name: Manuj Saxena
 username: Manuj56
 role: Software Developer
