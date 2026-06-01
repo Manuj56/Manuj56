@@ -1,5 +1,3 @@
-# 🚀 MANUJ OS v3.0
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:0ea5e9&text=MANUJ%20SAXENA&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI%20Builder&descAlignY=60"/>
@@ -9,8 +7,6 @@
 </div>
 
 ---
-
-## 🖥️ systemctl status manuj.service
 
 ```bash
 ● manuj.service - Software Engineer
