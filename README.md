@@ -1,194 +1,108 @@
+---
+
+---
+
+---
+
+---
+
+<!-- ┌─────────────────────────────────────────────────────────┐
+     │           CONNECT — NEON SOCIAL GRID                    │
+     └─────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,40:1e293b,70:2563eb,100:06b6d4&height=260&section=header&text=MANUJ%20SAXENA&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Java%20Developer%20•%20AI%20Builder&descAlignY=65"/>
+## 🌐 `> connect --broadcast --all-channels`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&width=900&lines=Booting+MANUJ+OS+v4.0...;Java+Developer;Spring+Boot+Learner;Building+AI+Powered+Applications;MERN+Stack+Developer;RAG+Systems+Explorer"/>
+<a href="https://linkedin.com/in/nitin-goyal-33a273300" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/_nitin_yl" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/@Its_Nitin_Goyal" target="_blank">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://discord.gg/nitingoyal0296" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:navgoyal321@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+<br/><br/>
 
----
+<!-- ── NEON ANIMATED DIVIDER ─────────────────────────────────── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# 🖥️ systemctl status manuj.service
+<br/>
 
-```bash
-● manuj.service - Software Engineer
+<!-- ── PROFILE VIEW COUNTER (komarev — most reliable) ────────── -->
+<img src="https://komarev.com/ghpvc/?username=Manuj56&style=for-the-badge&color=00fff5&labelColor=050510&label=%E2%9A%A1+NEURAL+CONNECTIONS" alt="profile views"/>
 
-Status      : Active 🟢
-Role        : Full Stack Developer
-Location    : India 🇮🇳
-Focus       : Java • Spring Boot • MERN • AI/ML
-Mission     : Build impactful products
-Uptime      : 24/7 Learning Mode 🚀
-```
+<br/><br/>
 
----
+<!-- ── SELF-HOSTED SVG FOOTER — never breaks, no external call ── -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#050510"/>
+      <stop offset="35%"  stop-color="#0f3460"/>
+      <stop offset="65%"  stop-color="#0d0221"/>
+      <stop offset="100%" stop-color="#050510"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#050510"/>
+      <stop offset="20%"  stop-color="#00fff5"/>
+      <stop offset="50%"  stop-color="#ff00c8"/>
+      <stop offset="80%"  stop-color="#00fff5"/>
+      <stop offset="100%" stop-color="#050510"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- wave path -->
+    <clipPath id="waveClip">
+      <path d="M0,60 C150,20 300,100 450,60 C600,20 750,100 900,60 C1050,20 1150,80 1200,60 L1200,180 L0,180 Z"/>
+    </clipPath>
+  </defs>
 
-# ⚡ initializing.profile
+  <!-- wave background -->
+  <path d="M0,60 C150,20 300,100 450,60 C600,20 750,100 900,60 C1050,20 1150,80 1200,60 L1200,180 L0,180 Z"
+        fill="url(#bgGrad)"/>
 
-```text
-[01] Loading developer modules..................[OK]
-[02] Connecting to GitHub Universe..............[OK]
-[03] Fetching repositories......................[OK]
-[04] Compiling ideas into code..................[OK]
-[05] Optimizing workflow........................[OK]
+  <!-- neon top line on wave -->
+  <path d="M0,60 C150,20 300,100 450,60 C600,20 750,100 900,60 C1050,20 1150,80 1200,60"
+        fill="none" stroke="url(#lineGrad)" stroke-width="2.5" filter="url(#glow)"/>
 
-Profile Ready ✔
-```
+  <!-- glowing dots on wave peaks -->
+  <circle cx="0"    cy="60" r="4" fill="#00fff5" filter="url(#glow)" opacity="0.8"/>
+  <circle cx="300"  cy="60" r="4" fill="#ff00c8" filter="url(#glow)" opacity="0.8"/>
+  <circle cx="600"  cy="38" r="4" fill="#00fff5" filter="url(#glow)" opacity="0.8"/>
+  <circle cx="900"  cy="60" r="4" fill="#ff00c8" filter="url(#glow)" opacity="0.8"/>
+  <circle cx="1200" cy="60" r="4" fill="#00fff5" filter="url(#glow)" opacity="0.8"/>
 
----
+  <!-- main text -->
+  <text x="600" y="125"
+        font-family="'Courier New', monospace"
+        font-size="18" font-weight="bold"
+        fill="#00fff5" text-anchor="middle"
+        filter="url(#glow)">
+    ⚡  Built with Code, Coffee &amp; Chaos  ⚡
+  </text>
 
-# 👨‍💻 about.me
-
-```java
-public class Developer {
-
-    String name = "Manuj Saxena";
-    String role = "Full Stack Developer";
-
-    String[] stack = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "Node.js",
-        "MongoDB",
-        "AI/ML"
-    };
-
-    String currentGoal =
-        "Become a strong Software Engineer";
-}
-```
-
----
-
-# ⚔️ tech.arsenal()
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp"/>
-</p>
-
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,firebase"/>
-</p>
-
----
-
-# 🚀 featured.projects
-
-## 🤖 AI Powered LMS
-
-```text
-MERN • Firebase • Gemini AI
-
-✓ Smart Course Search
-✓ Google Authentication
-✓ Razorpay Payments
-✓ Cloudinary Uploads
-✓ Educator Dashboard
-```
-
-## 🧠 RAG Teaching Assistant
-
-```text
-LLMs • NLP • Vector Database
-
-✓ Semantic Search
-✓ Context Aware Answers
-✓ Reduced Hallucinations
-✓ Optimized Retrieval Pipeline
-```
-
-## 🏥 DiagnoAI
-
-```text
-Machine Learning • Streamlit
-
-✓ 92% Accuracy
-✓ Real Time Prediction
-✓ Interactive Insights
-```
-
----
-
-# 🐍 snake --eat-contributions
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Manuj56/Manuj56/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-> After creating the README, set up a GitHub Action for snake generation.
-
----
-
-# 📈 git log --graph --all --oneline
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuj56&bg_color=0d1117&color=22d3ee&line=3b82f6&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
-# 📊 github.analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuj56&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuj56&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 streak.stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Manuj56&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🎯 current.mission
-
-```text
-[✓] Advanced DSA
-[✓] Spring Boot
-[✓] System Design
-[✓] AI Engineering
-[✓] RAG Systems
-[ ] Open Source Contributions
-```
-
----
-
-# 🏆 achievements
-
-- Full Stack Web Development Certification
-- Python Machine Learning Certification
-- DBMS Fundamentals & Advanced Concepts
-
----
-
-# 📡 connect.exe
-
-- 📧 manujsaxena567@gmail.com
-- 💼 https://linkedin.com/in/manuj56
-- 🐙 https://github.com/Manuj56
-
----
-
-<div align="center">
-
-### ⚡ Code • Learn • Build • Repeat
+  <!-- sub text -->
+  <text x="600" y="155"
+        font-family="'Courier New', monospace"
+        font-size="12"
+        fill="#888888" text-anchor="middle">
+    © Manuj Saxena · github.com/Manuj56 · 2025
+  </text>
+</svg>
 
 </div>
