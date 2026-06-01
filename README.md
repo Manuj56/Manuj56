@@ -8,6 +8,8 @@
 
 ---
 
+## 🖥️ systemctl status manuj.service
+
 ```bash
 ● manuj.service - Software Engineer
 
