@@ -1,34 +1,52 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:0ea5e9&text=MANUJ%20SAXENA&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI%20Builder&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,40:1e293b,70:2563eb,100:06b6d4&height=260&section=header&text=MANUJ%20SAXENA&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Java%20Developer%20•%20AI%20Builder&descAlignY=65"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=800&lines=Booting+MANUJ+OS+v3.0...;Java+Developer;Full+Stack+Engineer;Building+AI+Powered+Applications;Spring+Boot+%7C+MERN+%7C+RAG+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&width=900&lines=Booting+MANUJ+OS+v4.0...;Java+Developer;Spring+Boot+Learner;Building+AI+Powered+Applications;MERN+Stack+Developer;RAG+Systems+Explorer"/>
 
 </div>
 
 ---
 
-## 🖥️ systemctl status manuj.service
+# 🖥️ systemctl status manuj.service
 
 ```bash
 ● manuj.service - Software Engineer
 
 Status      : Active 🟢
 Role        : Full Stack Developer
-University  : GLA University
-Focus       : Java • Spring Boot • MERN • AI
-Location    : Uttar Pradesh, India
-Mission     : Building scalable and intelligent software
+Location    : India 🇮🇳
+Focus       : Java • Spring Boot • MERN • AI/ML
+Mission     : Build impactful products
+Uptime      : 24/7 Learning Mode 🚀
 ```
 
-## ☕ developer.java
+---
+
+# ⚡ initializing.profile
+
+```text
+[01] Loading developer modules..................[OK]
+[02] Connecting to GitHub Universe..............[OK]
+[03] Fetching repositories......................[OK]
+[04] Compiling ideas into code..................[OK]
+[05] Optimizing workflow........................[OK]
+
+Profile Ready ✔
+```
+
+---
+
+# 👨‍💻 about.me
 
 ```java
 public class Developer {
 
     String name = "Manuj Saxena";
+    String role = "Full Stack Developer";
 
-    String[] skills = {
+    String[] stack = {
         "Java",
         "Spring Boot",
         "React",
@@ -37,68 +55,110 @@ public class Developer {
         "AI/ML"
     };
 
-    String currentMission =
-        "Building AI-Powered Applications";
-
+    String currentGoal =
+        "Become a strong Software Engineer";
 }
 ```
 
 ---
 
-## ⚔️ Tech Arsenal
+# ⚔️ tech.arsenal()
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp"/>
+</p>
 
-### Full Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,firebase"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 featured.projects
 
 ## 🤖 AI Powered LMS
 
 ```text
-MERN + Firebase + Gemini AI
+MERN • Firebase • Gemini AI
 
-✓ Smart Search
+✓ Smart Course Search
 ✓ Google Authentication
-✓ Razorpay Integration
-✓ Educator Dashboard
+✓ Razorpay Payments
 ✓ Cloudinary Uploads
+✓ Educator Dashboard
 ```
 
-## 🧠 RAG Based Teaching Assistant
+## 🧠 RAG Teaching Assistant
 
 ```text
-LLM + Vector Database
+LLMs • NLP • Vector Database
 
-✓ Context Aware Answers
 ✓ Semantic Search
-✓ RAG Pipeline
+✓ Context Aware Answers
 ✓ Reduced Hallucinations
+✓ Optimized Retrieval Pipeline
 ```
 
 ## 🏥 DiagnoAI
 
 ```text
-92% Accuracy
+Machine Learning • Streamlit
 
-✓ Disease Prediction
-✓ Streamlit Application
-✓ Interactive Visual Insights
+✓ 92% Accuracy
+✓ Real Time Prediction
+✓ Interactive Insights
 ```
 
 ---
 
-## 🎯 Current Mission
+# 🐍 snake --eat-contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Manuj56/Manuj56/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+> After creating the README, set up a GitHub Action for snake generation.
+
+---
+
+# 📈 git log --graph --all --oneline
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manuj56&bg_color=0d1117&color=22d3ee&line=3b82f6&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 📊 github.analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuj56&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuj56&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 streak.stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Manuj56&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 current.mission
 
 ```text
 [✓] Advanced DSA
@@ -111,33 +171,24 @@ LLM + Vector Database
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 achievements
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Manuj56&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuj56&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Certifications
-
-- Full Stack Web Development
-- Python Machine Learning
+- Full Stack Web Development Certification
+- Python Machine Learning Certification
 - DBMS Fundamentals & Advanced Concepts
 
 ---
 
-## 📡 Connect
+# 📡 connect.exe
 
-- GitHub: https://github.com/Manuj56
-- LinkedIn: https://linkedin.com/in/manuj56
-- Email: manujsaxena567@gmail.com
+- 📧 manujsaxena567@gmail.com
+- 💼 https://linkedin.com/in/manuj56
+- 🐙 https://github.com/Manuj56
 
 ---
 
 <div align="center">
 
-### ⚡ "Code • Learn • Build • Repeat"
+### ⚡ Code • Learn • Build • Repeat
 
 </div>
