@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:1e293b,100:0ea5e9&text=MANUJ%20SAXENA&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI%20Builder&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:0ea5e9&text=MANUJ%20SAXENA&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI%20Builder&descAlignY=60"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=900&color=00FFF5&center=true&vCenter=true&width=800&lines=Initializing+MANUJ.exe...;Loading+Java+and+Spring+Boot...;Connecting+to+MongoDB+Cluster...;Booting+AI+Modules...;Full+Stack+Developer+ONLINE...;Building+Projects+and+Solving+Problems..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=25&pause=900&color=00FFF5&center=true&vCenter=true&width=800&lines=Initializing+MANUJ.exe...;Loading+Java+and+Spring+Boot...;Connecting+to+MongoDB+Cluster...;Booting+AI+Modules...;Full+Stack+Developer+ONLINE...;Building+Projects+and+Solving+Problems..."/>
 </a>
 
 </div>
