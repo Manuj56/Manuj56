@@ -2,7 +2,9 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:0ea5e9&text=MANUJ%20SAXENA&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI%20Builder&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=800&lines=Booting+MANUJ+OS+v3.0...;Java+Developer;Full+Stack+Engineer;Building+AI+Powered+Applications;Spring+Boot+%7C+MERN+%7C+RAG+Systems"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=900&color=00FFF5&center=true&vCenter=true&width=800&lines=%3E_%20Initializing+MANUJ.exe...+%5BOK%5D;%3E_%20Loading+Java+%26+Spring+Boot...+%5BOK%5D;%3E_%20Connecting+to+MongoDB+Cluster...+%5BOK%5D;%3E_%20Booting+AI+Modules...+%5BOK%5D;%3E_%20Full+Stack+Developer+ONLINE+🟢;%3E_%20Building+Products+%26+Solving+Problems+🚀"/>
+</a>
 
 </div>
 
