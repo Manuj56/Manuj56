@@ -42,9 +42,9 @@
 
 <div align="center">
 
-## 📈 `> git log --graph --all --oneline`
+## 📈 `> git stats --overview`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manuj56&bg_color=050510&color=00fff5&line=ff00c8&point=ffffff&area=true&hide_border=true)](https://github.com/Manuj56)](https://github.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Manuj56&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="55%"/>
 
 </div>
 
