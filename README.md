@@ -44,7 +44,7 @@
 
 ## 📈 `> git log --graph --all --oneline`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manuj56&bg_color=050510&color=00fff5&line=ff00c8&point=ffffff&area=true&hide_border=true)](https://github.com)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manuj56&bg_color=050510&color=00fff5&line=ff00c8&point=ffffff&area=true&hide_border=true)](https://github.com/Manuj56)](https://github.com)
 
 </div>
 
