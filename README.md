@@ -14,15 +14,16 @@
 
 ```bash
 ╔══════════════════════════════════════════════════════╗
-║        ⚡ MANUJ SAXENA - Software Engineer ⚡       ║
+║        ⚡ MANUJ SAXENA - Software Engineer ⚡        ║
 ╠══════════════════════════════════════════════════════╣
 ║ [ROLE]      Full Stack Developer                    ║
 ║ [BASE]      India 🇮🇳                               ║
-║ [STACK]     Java · Spring Boot · React · Node.js    ║
+║ [STACK]     Java · React · Node.js · MongoDB        ║
+║ [AI]        LLMs · RAG · NLP · Embeddings           ║
 ║ [LEARNING]  DSA · AI Engineering · System Design    ║
 ║ [STATUS]    Building · Learning · Growing 🔥        ║
 ║ [COLLAB]    Real World Projects & Open Source       ║
-║ [FACT]      Turning ideas into software 🚀          ║
+║ [FACT]      Turning ideas into software 🚀           ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
